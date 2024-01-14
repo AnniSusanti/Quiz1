@@ -1,0 +1,14 @@
+D:\Quiz\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\Quiz\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\Quiz\Quiz\Quiz\bin\Debug\Quiz.xml
+D:\Quiz\Quiz\Quiz\obj\Debug\ResolveAssemblyReference.cache
+D:\Quiz\Quiz\Quiz\obj\Debug\WindowsApplication1.Form1.resources
+D:\Quiz\Quiz\Quiz\obj\Debug\WindowsApplication1.Form2.resources
+D:\Quiz\Quiz\Quiz\obj\Debug\WindowsApplication1.Form3.resources
+D:\Quiz\Quiz\Quiz\obj\Debug\WindowsApplication1.Form4.resources
+D:\Quiz\Quiz\Quiz\obj\Debug\WindowsApplication1.Resources.resources
+D:\Quiz\Quiz\Quiz\obj\Debug\Quiz.vbproj.GenerateResource.Cache
+D:\Quiz\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\Quiz\Quiz\Quiz\obj\Debug\Quiz.xml
+D:\Quiz\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Quiz\Quiz\Quiz\obj\Debug\WindowsApplication1.Form5.resources
